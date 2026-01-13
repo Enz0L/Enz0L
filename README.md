@@ -29,9 +29,9 @@ When I'm not coding, I explore emerging security topics like **eBPF for system m
 
 <div align="center">
 
-![Enzo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Enz0L&show_icons=true&theme=radical&title_color=e63946&text_color=1d3557&bg_color=f1faee&icon_color=457b9d&border_color=a8dadc&hide_border=false)
+![Enzo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Enz0L&show_icons=true&title_color=e63946&text_color=1d3557&bg_color=f1faee&icon_color=457b9d&border_color=a8dadc)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Enz0L&layout=compact&theme=radical&title_color=e63946&text_color=1d3557&bg_color=f1faee&border_color=a8dadc)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Enz0L&layout=compact&title_color=e63946&text_color=1d3557&bg_color=f1faee&border_color=a8dadc)
 
 </div>
 
