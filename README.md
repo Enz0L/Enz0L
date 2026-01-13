@@ -67,13 +67,6 @@ CVE collector based on **CPE identifiers** with automated report generation. Int
 <tr>
 <td width="50%">
 
-### 🎣 [PhishAnalyzr-CLI](https://github.com/Enz0L/PhishAnalyzr-CLI)
-![CLI Tool](https://img.shields.io/badge/Type-CLI_Tool-1d3557?style=flat-square)
-
-Phishing email analyzer supporting **EML and MSG formats**. Performs MIME structure analysis and header inspection for incident response.
-
-**Tech Stack:** `Python` `MIME parsing` `Email analysis`
-
 </td>
 <td width="50%">
 
