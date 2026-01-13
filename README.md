@@ -26,7 +26,7 @@
 
 **Passionate** about securing organizations through hands-on expertise and continuous learning.
 
-💡 **Curious mind**. *Always learning*, **always building**.
+💡 **Curious mind**. **Always learning**, **always building**.
 
 🔍 𝗩𝘂𝗹𝗻𝗲𝗿𝗮𝗯𝗶𝗹𝗶𝘁𝘆 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁
 🔬 𝗗𝗶𝗴𝗶𝘁𝗮𝗹 𝗙𝗼𝗿𝗲𝗻𝘀𝗶𝗰𝘀 & 𝗜𝗻𝗰𝗶𝗱𝗲𝗻𝘁 𝗥𝗲𝘀𝗽𝗼𝗻𝘀𝗲
