@@ -5,7 +5,7 @@
 
 # 👋 Hi, I'm Enzo
 
-### Cybersecurity Engineer & Open Source Developer
+### Cybersecurity Engineer
 
 📍 Lyon, France
 
