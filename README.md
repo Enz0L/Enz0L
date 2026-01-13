@@ -40,8 +40,10 @@
 
 - 🛡️ 𝗘𝗗𝗥 𝗗𝗲𝗽𝗹𝗼𝘆𝗺𝗲𝗻𝘁 & 𝗔𝗱𝗺𝗶𝗻𝗶𝘀𝘁𝗿𝗮𝘁𝗶𝗼𝗻
 
+
 📝 Blogging about cybersecurity topics
 🤖 Building POCs & projects blending Cybersecurity and AI
+
 ---
 
 ## 📊 GitHub Stats
