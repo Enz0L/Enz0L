@@ -1,7 +1,8 @@
 <div align="center">
 
-<!-- Optional: Add your banner image here when ready -->
-<!-- ![Banner](./assets/banner/your-image.png) -->
+<img src="./assets/banner/image.png" alt="Enzo" width="200" style="border-radius: 50%; border: 4px solid #e63946; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+
+<br><br>
 
 # 👋 Hi, I'm Enzo
 
