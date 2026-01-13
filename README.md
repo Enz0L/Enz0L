@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="./assets/banner/image.png" alt="Enzo" width="200" style="border-radius: 50%; border: 4px solid #e63946; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+<a href="https://enzolenair.fr">
+  <img src="./assets/banner/avatar_circle.png" alt="Enzo" width="200"/>
+</a>
 
 <br><br>
 
@@ -42,7 +44,7 @@ When I'm not coding, I explore emerging security topics like **eBPF for system m
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
 
 ### 📧 [MailSecWatcher](https://github.com/Enz0L/MailSecWatcher)
 ![Production](https://img.shields.io/badge/Status-Production-e63946?style=flat-square)
@@ -52,7 +54,7 @@ DNS/Email security audit tool that analyzes **SPF, DKIM, DMARC, and BIMI** recor
 **Tech Stack:** `Python` `cryptography` `dnspython`
 
 </td>
-<td width="50%">
+<td width="33%">
 
 ### 🔍 [VulnWatcher](https://github.com/Enz0L/VulnWatcher)
 ![Alpha](https://img.shields.io/badge/Status-Alpha-457b9d?style=flat-square)
@@ -62,13 +64,7 @@ CVE collector based on **CPE identifiers** with automated report generation. Int
 **Tech Stack:** `Python` `NVD API` `docxtpl`
 
 </td>
-</tr>
-
-<tr>
-<td width="50%">
-
-</td>
-<td width="50%">
+<td width="33%">
 
 ### 🐧 [eBPFSecMonitoring](https://github.com/Enz0L/eBPFSecMonitoring)
 ![System Security](https://img.shields.io/badge/Type-System_Security-a8dadc?style=flat-square)
