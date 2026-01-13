@@ -62,7 +62,7 @@
 
 <table>
 <tr>
-<td width="33%">
+<td width="50%">
 
 ### 📧 [MailSecWatcher](https://github.com/Enz0L/MailSecWatcher)
 ![Production](https://img.shields.io/badge/Status-Production-e63946?style=flat-square)
@@ -72,7 +72,7 @@ DNS/Email security audit tool that analyzes **SPF, DKIM, DMARC, and BIMI** recor
 **Tech Stack:** `Python` `cryptography` `dnspython`
 
 </td>
-<td width="33%">
+<td width="50%">
 
 ### 🔍 [VulnWatcher](https://github.com/Enz0L/VulnWatcher)
 ![Alpha](https://img.shields.io/badge/Status-Alpha-457b9d?style=flat-square)
@@ -82,7 +82,10 @@ CVE collector based on **CPE identifiers** with automated report generation. Int
 **Tech Stack:** `Python` `NVD API` `docxtpl`
 
 </td>
-<td width="33%">
+</tr>
+
+<tr>
+<td width="50%">
 
 ### 🐧 [eBPFSecMonitoring](https://github.com/Enz0L/eBPFSecMonitoring)
 ![System Security](https://img.shields.io/badge/Type-System_Security-a8dadc?style=flat-square)
@@ -90,6 +93,16 @@ CVE collector based on **CPE identifiers** with automated report generation. Int
 **eBPF-based** system security monitoring for Linux. Provides low-level observability for SOC operations.
 
 **Tech Stack:** `Python` `C` `eBPF` `YAML`
+
+</td>
+<td width="50%">
+
+### 🤖 [SExAIPoC](https://github.com/Enz0L/SExAIPoC)
+![Research](https://img.shields.io/badge/Type-Research_POC-1d3557?style=flat-square)
+
+**Security x AI** proof of concept. Uses FOFA to gather open directory servers and leverages LLM to analyze HTML content for malicious tools detection.
+
+**Tech Stack:** `Python` `FOFA` `LangChain` `Ollama` • [Read article](https://enzolenair.fr/2025/01/19/SExAI/SExAI/)
 
 </td>
 </tr>
