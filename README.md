@@ -6,7 +6,7 @@
 
 <br><br>
 
-# 👋 Hi, I'm Enzo
+# 👋 Hi, I'm Enzo!
 
 ### Cybersecurity Engineer
 
