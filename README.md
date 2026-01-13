@@ -28,10 +28,17 @@
 
 💡 **Curious mind**. **Always learning**, **always building**.
 
-🔍 𝗩𝘂𝗹𝗻𝗲𝗿𝗮𝗯𝗶𝗹𝗶𝘁𝘆 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁
-🔬 𝗗𝗶𝗴𝗶𝘁𝗮𝗹 𝗙𝗼𝗿𝗲𝗻𝘀𝗶𝗰𝘀 & 𝗜𝗻𝗰𝗶𝗱𝗲𝗻𝘁 𝗥𝗲𝘀𝗽𝗼𝗻𝘀𝗲
-🎯 𝗦𝗢𝗖 𝗢𝗽𝗲𝗿𝗮𝘁𝗶𝗼𝗻𝘀 (RUN & BUILD)
-🛡️ 𝗘𝗗𝗥 𝗗𝗲𝗽𝗹𝗼𝘆𝗺𝗲𝗻𝘁 & 𝗔𝗱𝗺𝗶𝗻𝗶𝘀𝘁𝗿𝗮𝘁𝗶𝗼𝗻
+
+- 🔍 𝗩𝘂𝗹𝗻𝗲𝗿𝗮𝗯𝗶𝗹𝗶𝘁𝘆 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁
+
+
+- 🔬 𝗗𝗶𝗴𝗶𝘁𝗮𝗹 𝗙𝗼𝗿𝗲𝗻𝘀𝗶𝗰𝘀 & 𝗜𝗻𝗰𝗶𝗱𝗲𝗻𝘁 𝗥𝗲𝘀𝗽𝗼𝗻𝘀𝗲
+
+
+- 🎯 𝗦𝗢𝗖 𝗢𝗽𝗲𝗿𝗮𝘁𝗶𝗼𝗻𝘀 (RUN & BUILD)
+
+
+- 🛡️ 𝗘𝗗𝗥 𝗗𝗲𝗽𝗹𝗼𝘆𝗺𝗲𝗻𝘁 & 𝗔𝗱𝗺𝗶𝗻𝗶𝘀𝘁𝗿𝗮𝘁𝗶𝗼𝗻
 
 📝 Blogging about cybersecurity topics
 🤖 Building POCs & projects blending Cybersecurity and AI
