@@ -8,7 +8,7 @@
 
 # 👋 Hi, I'm Enzo!
 
-### Cybersecurity Engineer
+### 🛡️ Cybersecurity Consultant | Defensive & Operational Security
 
 📍 Lyon, France
 
@@ -22,7 +22,7 @@
 
 ## 🔐 About Me
 
-**🛡️ Cybersecurity Consultant | Defensive & Operational Security**
+
 
 **Passionate** about securing organizations through hands-on expertise and continuous learning.
 
