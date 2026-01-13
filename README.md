@@ -22,10 +22,19 @@
 
 ## 🔐 About Me
 
-I'm a **cybersecurity engineer** passionate about building security tools and automating threat intelligence workflows. I specialize in email security, vulnerability management, and system monitoring. My work focuses on developing practical open-source tools that help security teams identify and mitigate threats more effectively.
+**🛡️ Cybersecurity Consultant | Defensive & Operational Security**
 
-When I'm not coding, I explore emerging security topics like **eBPF for system monitoring**, **LLM security**, and **physical security**.
+**Passionate** about securing organizations through hands-on expertise and continuous learning.
 
+💡 **Curious mind**. *Always learning*, **always building**.
+
+🔍 𝗩𝘂𝗹𝗻𝗲𝗿𝗮𝗯𝗶𝗹𝗶𝘁𝘆 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁
+🔬 𝗗𝗶𝗴𝗶𝘁𝗮𝗹 𝗙𝗼𝗿𝗲𝗻𝘀𝗶𝗰𝘀 & 𝗜𝗻𝗰𝗶𝗱𝗲𝗻𝘁 𝗥𝗲𝘀𝗽𝗼𝗻𝘀𝗲
+🎯 𝗦𝗢𝗖 𝗢𝗽𝗲𝗿𝗮𝘁𝗶𝗼𝗻𝘀 (RUN & BUILD)
+🛡️ 𝗘𝗗𝗥 𝗗𝗲𝗽𝗹𝗼𝘆𝗺𝗲𝗻𝘁 & 𝗔𝗱𝗺𝗶𝗻𝗶𝘀𝘁𝗿𝗮𝘁𝗶𝗼𝗻
+
+📝 Blogging about cybersecurity topics
+🤖 Building POCs & projects blending Cybersecurity and AI
 ---
 
 ## 📊 GitHub Stats
