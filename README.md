@@ -113,10 +113,6 @@ Phishing email analyzer supporting **EML and MSG formats**. Performs MIME struct
 
 I write technical deep-dives on security topics. Check out my latest articles:
 
-- 🔗 [**Deep Dive into eBPF for Security Monitoring**](https://enzolenair.fr) - Exploring kernel-level observability for security operations
-- 🤖 [**LLM Security: OWASP Top 10 & Beyond**](https://enzolenair.fr) - Securing AI systems against emerging threats
-- 🔒 [**Physical Security: Lockpicking Basics**](https://enzolenair.fr) - Understanding mechanical security from an attacker's perspective
-
 ➡️ [**Read more on my blog**](https://enzolenair.fr)
 
 ---
